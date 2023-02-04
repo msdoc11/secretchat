@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksecretchat=self.webpackChunksecretchat||[]).push([[910],{49910:function(t,e,n){n.r(e),n.d(e,{default:function(){return r.Z},getTypographyUtilityClass:function(){return s.f},typographyClasses:function(){return s.Z}});var r=n(4567),s=n(40940)}}]);
